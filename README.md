@@ -15,13 +15,26 @@ This project is a web-based music player inspired by Spotify. It allows users to
 ## Features
 
 - Home page with navigation options
-  ![{CC05EC1C-1E75-41F9-9DEC-724732B8E8A9}](https://github.com/user-attachments/assets/e172082d-be96-4240-a67d-9fb997cde6ff)
+  ![image](https://github.com/user-attachments/assets/85f5355b-e952-45e6-ae2f-0f78ef38d289)
 
 - Search functionality
+  
+  ![{BDE60D39-425A-40F9-8397-B5E7B4917DD4}](https://github.com/user-attachments/assets/92e02cdb-9ea6-4716-b6b4-92495203052d)
+
 - User library management
+  
+  ![{56DC66A8-71A6-4F94-A496-99741D5D7228}](https://github.com/user-attachments/assets/9218d028-e399-4e9f-a0ec-6c3999e697cd)
+
 - Playlist creation and management
+  
+  ![{D8434117-FEEE-4EF8-BB82-DA5104916995}](https://github.com/user-attachments/assets/b51b798d-6195-46da-b2d2-be20dda0a8b7)
+
 - Music player with playback controls
+  
+  ![{CACD36DC-3A71-40FC-8E46-B0E2B9CB95AE}](https://github.com/user-attachments/assets/07c7827f-5ff0-4366-bfed-af44ff3b7663)
+
 - Responsive design
+![{DCBF7546-7CDE-4CC6-BB06-C1C9CCA75A00}](https://github.com/user-attachments/assets/a6d2e974-a6bc-44c4-97d4-9be0f4ca9278)
 
 ## Technologies Used
 
